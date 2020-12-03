@@ -1,0 +1,2 @@
+docker pull alpine
+docker -i -t alpine

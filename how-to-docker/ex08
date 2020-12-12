@@ -1,2 +1,2 @@
 docker pull alpine
-docker -i -t alpine
+docker run -i -t --rm alpine

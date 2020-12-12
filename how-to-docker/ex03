@@ -1,1 +1,1 @@
-docker-machine ssh Char
+eval $(docker-machine env --shell bash Char)

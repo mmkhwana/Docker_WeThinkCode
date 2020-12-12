@@ -1,5 +1,5 @@
 docker pull debian
-docker run -i -t debian
+docker run -i -t --rm debian
 apt-get update
 apt-get install -y vim
 apt-get install -y gcc
